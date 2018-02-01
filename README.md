@@ -1,3 +1,3 @@
 # HelloWord
 
-Alex here, I like Java and looking gor new projects.
+Alex here, I like Java and looking for new projects.
